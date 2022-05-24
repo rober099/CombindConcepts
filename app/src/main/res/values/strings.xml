@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CombindConcepts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loginTitle">Login</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="regDialogBtn">Not a member? Sign Up Here</string>
+    <string name="registerBtn">Register</string>
+    <string name="cancleBtn">Cancle</string>
+    <string name="sucess">Registration Successful</string>
+    <string name="userName">Enter Name</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="peach">Peach</string>
+    <string name="pear">Pear</string>
+    <string name="orange">Orange</string>
+    <string name="homeHeader">Home</string>
+    <string name="items_below">Items Below</string>
+    <string name="itemName">Item Name</string>
+    <string name="menu_email_view">robertsalyssa262@gmail.com</string>
+    <string name="shopper_name">Alyssa</string>
+    <string name="shopper_profile">Profile</string>
+    <string name="shopper_order_history">Order History</string>
+    <string name="deals">Deals</string>
+    <string name="shopper_settings">Settings</string>
+    <string name="shopper_logout">Logout</string>
+    <string name="moreInfo">Expand</string>
+</resources>

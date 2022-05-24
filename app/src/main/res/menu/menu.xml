@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/shopper_profile" />
+
+        <item
+            android:id="@+id/orderHistory"
+            android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+            android:title="@string/shopper_order_history" />
+
+    </group>
+
+    <item android:title="Extras">
+        <menu>
+            <item
+                android:id="@+id/nav_offers"
+                android:icon="@drawable/ic_baseline_local_offer_24"
+                android:title="@string/deals" />
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="@string/shopper_settings" />
+            <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="@string/shopper_logout" />
+        </menu>
+    </item>
+</menu>
